@@ -1,0 +1,1 @@
+const very_good_work;
